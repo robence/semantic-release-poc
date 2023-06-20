@@ -44,14 +44,14 @@
       [
         "@semantic-release/changelog",
         {
-          "changelogFile": "docs/RELEASELOG.md"
+          "changelogFile": "docs/CHANGELOG.md"
         }
       ],
       [
         "@semantic-release/git",
         {
           "assets": [
-            "docs/RELEASELOG.md"
+            "docs/CHANGELOG.md"
           ]
         }
       ]
