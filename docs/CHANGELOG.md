@@ -1,3 +1,26 @@
+# [4.0.0-next.1](https://github.com/robence/semantic-release-poc/compare/v3.1.0...v4.0.0-next.1) (2023-06-20)
+
+
+### Bug Fixes
+
+* FKDEV-11 ([#13](https://github.com/robence/semantic-release-poc/issues/13)) ([34c1ad8](https://github.com/robence/semantic-release-poc/commit/34c1ad8bcc8db4290cbc07cd9d7c081a8aa360f6))
+* FKDEV-17 ([09938dd](https://github.com/robence/semantic-release-poc/commit/09938dd3c67d1c7322a5c36ef1625eaf691d0e61))
+* FKDEV-18 ([cccd126](https://github.com/robence/semantic-release-poc/commit/cccd126e331744602600caf603c03eda6d016979))
+* FKNEXT-2 ([709c282](https://github.com/robence/semantic-release-poc/commit/709c282b90691268b7fbda9c07d5d864923ecf2a))
+
+
+### Features
+
+* FKDEV-12 ([#15](https://github.com/robence/semantic-release-poc/issues/15)) ([0a75854](https://github.com/robence/semantic-release-poc/commit/0a75854d57ce28f5baab5276a284824d84060bc6))
+* FKDEV-13 ([#16](https://github.com/robence/semantic-release-poc/issues/16)) ([fd5869d](https://github.com/robence/semantic-release-poc/commit/fd5869dc77ca2ff5664c79218afd7b969de13cf6))
+* FKDEV-14 ([#14](https://github.com/robence/semantic-release-poc/issues/14)) ([74fca69](https://github.com/robence/semantic-release-poc/commit/74fca695529f5bfa66bbb477129f6da65c6dc580))
+* FKNEXT-1 ([3bc49e3](https://github.com/robence/semantic-release-poc/commit/3bc49e3704354a343713cbea1b72fe5cae1f85dc))
+
+
+### BREAKING CHANGES
+
+* bump
+
 # [3.2.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v3.2.0-beta.2...v3.2.0-beta.3) (2023-06-20)
 
 
