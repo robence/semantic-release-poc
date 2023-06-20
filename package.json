@@ -18,16 +18,34 @@
     "semantic-release": "^21.0.5"
   },
   "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
     "branches": [
-      "main"
+      "main",
+      {
+        "name": "beta",
+        "prerelease": true
+      }
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      "@semantic-release/git"
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "docs/CHANGELOG.md"
+        }
+      ],
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "docs/CHANGELOG.md"
+          ]
+        }
+      ]
     ]
   }
 }

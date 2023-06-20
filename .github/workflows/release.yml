@@ -3,6 +3,7 @@ name: Release
   push:
     branches:
       - main
+      - beta
 permissions:
   contents: read # for checkout
 jobs:
