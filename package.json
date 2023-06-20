@@ -59,7 +59,6 @@
           ]
         }
       ]
-    ],
-    "tagFormat": "kk-${version}"
+    ]
   }
 }
