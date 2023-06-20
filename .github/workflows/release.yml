@@ -22,6 +22,6 @@ jobs:
           cache: npm
           node-version: lts/*
       - run: npm ci
-      - run: npx semantic-release@21 -t $(git rev-parse --abbrev-ref HEAD)-${version} # tag: <branch-name>-<version> | kk-1.0.2
+      - run: npx semantic-release@21
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
