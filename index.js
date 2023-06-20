@@ -1,3 +1,3 @@
 console.log('BREAKING CHANGE!');
-console.log('change');
-console.log('new feature');
+console.log('change feat');
+console.log('new feature fix');
