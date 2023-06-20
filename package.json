@@ -33,6 +33,10 @@
         "channel": "kk"
       },
       {
+        "name": "customization/abc",
+        "channel": "abc"
+      },
+      {
         "name": "customization/*-next",
         "channel": "next",
         "prerelease": true

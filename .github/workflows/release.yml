@@ -6,6 +6,7 @@ name: Release
       - next
       - customization/*-next
       - customization/kk # list custom release branches
+      - customization/abc
 permissions:
   contents: read # for checkout
 jobs:
