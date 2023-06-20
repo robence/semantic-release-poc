@@ -1,3 +1,10 @@
+# [4.1.0-next.3](https://github.com/robence/semantic-release-poc/compare/v4.1.0-next.2...v4.1.0-next.3) (2023-06-20)
+
+
+### Features
+
+* FKNEXT-3 ([#21](https://github.com/robence/semantic-release-poc/issues/21)) ([f81a044](https://github.com/robence/semantic-release-poc/commit/f81a044901b2b1660baafb4dd7295c2200b5adfe))
+
 # [4.1.0-next.2](https://github.com/robence/semantic-release-poc/compare/v4.1.0-next.1...v4.1.0-next.2) (2023-06-20)
 
 
