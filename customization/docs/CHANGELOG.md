@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/robence/semantic-release-poc/compare/abcnext-1.1.0...abcnext-1.2.0) (2023-06-20)
+
+
+### Features
+
+* FKABC-6 ([895aff9](https://github.com/robence/semantic-release-poc/commit/895aff995e90fc5869d1ef34f2a2f491d90b1b8d))
+
 # [1.1.0](https://github.com/robence/semantic-release-poc/compare/abcnext-1.0.0...abcnext-1.1.0) (2023-06-20)
 
 
