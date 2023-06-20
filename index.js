@@ -1,1 +1,1 @@
-console.log('BREAKING CHANGE');
+console.log('BREAKING CHANGE!');
