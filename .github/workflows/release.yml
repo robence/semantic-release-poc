@@ -3,7 +3,9 @@ name: Release
   push:
     branches:
       - main
-      - beta
+      - next
+      - customization/*-next
+      - customization/kk # list custom release branches
 permissions:
   contents: read # for checkout
 jobs:
