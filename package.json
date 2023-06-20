@@ -35,6 +35,10 @@
       {
         "name": "customization/abc",
         "channel": "abc"
+      },
+      {
+        "name": "customization/abc-next",
+        "channel": "abcnext"
       }
     ],
     "plugins": [
