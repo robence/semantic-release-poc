@@ -1,3 +1,10 @@
+# [2.1.0-beta.4](https://github.com/robence/semantic-release-poc/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2023-06-20)
+
+
+### Features
+
+* FKJEGY-5 ([#6](https://github.com/robence/semantic-release-poc/issues/6)) ([92964fe](https://github.com/robence/semantic-release-poc/commit/92964fe1cc21781f5624433f70b7562b7c1c7b18))
+
 # [2.1.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2023-06-20)
 
 
