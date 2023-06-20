@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/robence/semantic-release-poc/compare/abcnext-1.2.0...abcnext-2.0.0) (2023-06-20)
+
+
+### Features
+
+* FKNEXT-8 ([2b38527](https://github.com/robence/semantic-release-poc/commit/2b385270ae2b47ab920b3f28503a11cf34af51de))
+
+
+### BREAKING CHANGES
+
+* bump
+
 # [1.2.0](https://github.com/robence/semantic-release-poc/compare/abcnext-1.1.0...abcnext-1.2.0) (2023-06-20)
 
 
