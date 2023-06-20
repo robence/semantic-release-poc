@@ -1,3 +1,15 @@
+# [1.0.0-next.2](https://github.com/robence/semantic-release-poc/compare/v1.0.0-next.1...v1.0.0-next.2) (2023-06-20)
+
+
+### Features
+
+* FKNEXT-8 ([2b38527](https://github.com/robence/semantic-release-poc/commit/2b385270ae2b47ab920b3f28503a11cf34af51de))
+
+
+### BREAKING CHANGES
+
+* bump
+
 # 1.0.0-next.1 (2023-06-20)
 
 
