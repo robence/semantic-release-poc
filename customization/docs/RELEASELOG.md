@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/robence/semantic-release-poc/compare/abc-2.0.0...abc-2.1.0) (2023-06-20)
+
+
+### Features
+
+* FKABC-5 ([eaff963](https://github.com/robence/semantic-release-poc/commit/eaff963c43f52898479d1ab8689e3a1256c2ace1))
+* FKABC-6 ([895aff9](https://github.com/robence/semantic-release-poc/commit/895aff995e90fc5869d1ef34f2a2f491d90b1b8d))
+
 # [2.0.0](https://github.com/robence/semantic-release-poc/compare/abc-1.0.0...abc-2.0.0) (2023-06-20)
 
 
