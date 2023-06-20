@@ -1,3 +1,10 @@
+# [3.2.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v3.2.0-beta.2...v3.2.0-beta.3) (2023-06-20)
+
+
+### Bug Fixes
+
+* FKDEV-17 ([09938dd](https://github.com/robence/semantic-release-poc/commit/09938dd3c67d1c7322a5c36ef1625eaf691d0e61))
+
 # [3.1.0](https://github.com/robence/semantic-release-poc/compare/v3.0.0...v3.1.0) (2023-06-20)
 
 
