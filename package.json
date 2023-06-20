@@ -22,7 +22,11 @@
   },
   "release": {
     "branches": [
-      "main"
+      "main",
+      {
+        "name": "customization/kk",
+        "channel": "kk"
+      }
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",

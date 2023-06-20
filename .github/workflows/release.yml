@@ -3,6 +3,7 @@ name: Release
   push:
     branches:
       - main
+      - customization/kk
 permissions:
   contents: read # for checkout
 jobs:
