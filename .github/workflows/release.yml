@@ -16,12 +16,12 @@ jobs:
     name: release
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           cache: npm
           node-version: lts/*
       - run: npm ci
-      - run: npx semantic-release@21
+      - run: npx semantic-release@21 -t $(git rev-parse --abbrev-ref HEAD)-${version} # tag: <branch-name>-<version> | kk-1.0.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
