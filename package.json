@@ -35,14 +35,14 @@
       [
         "@semantic-release/changelog",
         {
-          "changelogFile": "docs/CHANGELOG.md"
+          "changelogFile": "docs/CHANGELOG-beta.md"
         }
       ],
       [
         "@semantic-release/git",
         {
           "assets": [
-            "docs/CHANGELOG.md"
+            "docs/CHANGELOG-beta.md"
           ]
         }
       ]
