@@ -1,3 +1,31 @@
+# [2.0.0](https://github.com/robence/semantic-release-poc/compare/abc-1.0.0...abc-2.0.0) (2023-06-20)
+
+
+### Bug Fixes
+
+* FKABC-3 ([004f32f](https://github.com/robence/semantic-release-poc/commit/004f32f10536d32e8fe0ecdba60f2b8ba6481a44))
+* FKABC-4 ([14c5283](https://github.com/robence/semantic-release-poc/commit/14c5283db50ea011649211c596db5ab891654916))
+
+
+### chore
+
+* **release:** 1.0.0 [skip ci] ([36a8f8a](https://github.com/robence/semantic-release-poc/commit/36a8f8accd89068baa6d4381adfe8b76f6b55fd0)), closes [#13](https://github.com/robence/semantic-release-poc/issues/13) [#2](https://github.com/robence/semantic-release-poc/issues/2) [#13](https://github.com/robence/semantic-release-poc/issues/13) [#2](https://github.com/robence/semantic-release-poc/issues/2) [#13](https://github.com/robence/semantic-release-poc/issues/13) [#2](https://github.com/robence/semantic-release-poc/issues/2) [#15](https://github.com/robence/semantic-release-poc/issues/15) [#16](https://github.com/robence/semantic-release-poc/issues/16) [#14](https://github.com/robence/semantic-release-poc/issues/14) [#6](https://github.com/robence/semantic-release-poc/issues/6) [#19](https://github.com/robence/semantic-release-poc/issues/19) [#20](https://github.com/robence/semantic-release-poc/issues/20) [#21](https://github.com/robence/semantic-release-poc/issues/21) [#4](https://github.com/robence/semantic-release-poc/issues/4) [#15](https://github.com/robence/semantic-release-poc/issues/15) [#16](https://github.com/robence/semantic-release-poc/issues/16) [#14](https://github.com/robence/semantic-release-poc/issues/14) [#6](https://github.com/robence/semantic-release-poc/issues/6) [#19](https://github.com/robence/semantic-release-poc/issues/19) [#20](https://github.com/robence/semantic-release-poc/issues/20) [#21](https://github.com/robence/semantic-release-poc/issues/21) [#4](https://github.com/robence/semantic-release-poc/issues/4) [#13](https://github.com/robence/semantic-release-poc/issues/13) [#2](https://github.com/robence/semantic-release-poc/issues/2) [#15](https://github.com/robence/semantic-release-poc/issues/15) [#16](https://github.com/robence/semantic-release-poc/issues/16) [#14](https://github.com/robence/semantic-release-poc/issues/14) [#6](https://github.com/robence/semantic-release-poc/issues/6) [#19](https://github.com/robence/semantic-release-poc/issues/19) [#20](https://github.com/robence/semantic-release-poc/issues/20) [#21](https://github.com/robence/semantic-release-poc/issues/21) [#4](https://github.com/robence/semantic-release-poc/issues/4) [#15](https://github.com/robence/semantic-release-poc/issues/15) [#16](https://github.com/robence/semantic-release-poc/issues/16) [#14](https://github.com/robence/semantic-release-poc/issues/14) [#6](https://github.com/robence/semantic-release-poc/issues/6) [#19](https://github.com/robence/semantic-release-poc/issues/19) [#20](https://github.com/robence/semantic-release-poc/issues/20) [#21](https://github.com/robence/semantic-release-poc/issues/21) [#4](https://github.com/robence/semantic-release-poc/issues/4)
+
+
+### Features
+
+* FKABC-3 ([2e807a9](https://github.com/robence/semantic-release-poc/commit/2e807a92314b592c9a0d98f63e922fedcb0f6d85))
+
+
+### BREAKING CHANGES
+
+* **release:** in main ([ff122ba](https://github.com/robence/semantic-release-poc/commit/ff122ba6d18c1a2fa1f5ac2c344e8d4d686d7614))
+* **changelog:** add plugin ([d5886b3](https://github.com/robence/semantic-release-poc/commit/d5886b30e6e610fdb4caa6b42a625775b2918ffa))
+* **docs:** set up changelog ([e0b21c8](https://github.com/robence/semantic-release-poc/commit/e0b21c81c35a5ea0bb52025e1670d23078cb1857))
+* FKABC-1 ([7e4106b](https://github.com/robence/semantic-release-poc/commit/7e4106bf975e519398caf382627d10812dfb98cb))
+* FKABC-1 ([8e1c82f](https://github.com/robence/semantic-release-poc/commit/8e1c82fd137a3632a4c5f8474913a7c85445f603))
+* FKABC-3 ([2e807a9](https://github.com/robence/semantic-release-poc/commit/2e807a92314b592c9a0d98f63e922fedcb0f6d85))
+
 # 1.0.0 (2023-06-20)
 
 
