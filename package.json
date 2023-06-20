@@ -29,11 +29,16 @@
     "branches": [
       "main",
       {
+        "name": "next",
+        "prerelease": true
+      },
+      {
         "name": "customization/kk",
         "channel": "kk"
       },
       {
-        "name": "beta",
+        "name": "customization/*-next",
+        "channel": "next",
         "prerelease": true
       }
     ],

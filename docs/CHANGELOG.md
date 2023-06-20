@@ -1,56 +1,20 @@
-# [3.2.0](https://github.com/robence/semantic-release-poc/compare/v3.1.0...v3.2.0) (2023-06-20)
-
-
-### Bug Fixes
-
-* FKDEV-11 ([#13](https://github.com/robence/semantic-release-poc/issues/13)) ([34c1ad8](https://github.com/robence/semantic-release-poc/commit/34c1ad8bcc8db4290cbc07cd9d7c081a8aa360f6))
-* FKDEV-17 ([09938dd](https://github.com/robence/semantic-release-poc/commit/09938dd3c67d1c7322a5c36ef1625eaf691d0e61))
+# [4.1.0-next.3](https://github.com/robence/semantic-release-poc/compare/v4.1.0-next.2...v4.1.0-next.3) (2023-06-20)
 
 
 ### Features
 
-* FKDEV-12 ([#15](https://github.com/robence/semantic-release-poc/issues/15)) ([0a75854](https://github.com/robence/semantic-release-poc/commit/0a75854d57ce28f5baab5276a284824d84060bc6))
-* FKDEV-13 ([#16](https://github.com/robence/semantic-release-poc/issues/16)) ([fd5869d](https://github.com/robence/semantic-release-poc/commit/fd5869dc77ca2ff5664c79218afd7b969de13cf6))
-* FKDEV-14 ([#14](https://github.com/robence/semantic-release-poc/issues/14)) ([74fca69](https://github.com/robence/semantic-release-poc/commit/74fca695529f5bfa66bbb477129f6da65c6dc580))
+* FKNEXT-3 ([#21](https://github.com/robence/semantic-release-poc/issues/21)) ([f81a044](https://github.com/robence/semantic-release-poc/commit/f81a044901b2b1660baafb4dd7295c2200b5adfe))
 
-# [3.2.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v3.2.0-beta.2...v3.2.0-beta.3) (2023-06-20)
-
-
-### Bug Fixes
-
-* FKDEV-17 ([09938dd](https://github.com/robence/semantic-release-poc/commit/09938dd3c67d1c7322a5c36ef1625eaf691d0e61))
-
-# [3.1.0](https://github.com/robence/semantic-release-poc/compare/v3.0.0...v3.1.0) (2023-06-20)
-
-
-### Bug Fixes
-
-* **beta:** setup beta channel ([ea1e64f](https://github.com/robence/semantic-release-poc/commit/ea1e64f8491381ab4356f750bce9b2d26962262c))
-* **changelog:** install plugin ([35863fb](https://github.com/robence/semantic-release-poc/commit/35863fb8b48da9d1d5016f841e5cfe6a0484b5c5))
+# [4.1.0-next.2](https://github.com/robence/semantic-release-poc/compare/v4.1.0-next.1...v4.1.0-next.2) (2023-06-20)
 
 
 ### Features
 
-* **changelog:** add plugin ([d5886b3](https://github.com/robence/semantic-release-poc/commit/d5886b30e6e610fdb4caa6b42a625775b2918ffa))
-* **docs:** set up changelog ([e0b21c8](https://github.com/robence/semantic-release-poc/commit/e0b21c81c35a5ea0bb52025e1670d23078cb1857))
-* FKJEGY-5 ([#6](https://github.com/robence/semantic-release-poc/issues/6)) ([92964fe](https://github.com/robence/semantic-release-poc/commit/92964fe1cc21781f5624433f70b7562b7c1c7b18))
-* JEGY-2 ([#4](https://github.com/robence/semantic-release-poc/issues/4)) ([fd91dec](https://github.com/robence/semantic-release-poc/commit/fd91dec8537517e96248fe7f0254f6462e0631ff))
+* FKNEXT-2 ([#20](https://github.com/robence/semantic-release-poc/issues/20)) ([685ac9a](https://github.com/robence/semantic-release-poc/commit/685ac9ae4f9f9845529604d252d9f2d966371497))
 
-# [2.1.0-beta.4](https://github.com/robence/semantic-release-poc/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2023-06-20)
+# [4.1.0-next.1](https://github.com/robence/semantic-release-poc/compare/v4.0.1-next.1...v4.1.0-next.1) (2023-06-20)
 
 
 ### Features
 
-* FKJEGY-5 ([#6](https://github.com/robence/semantic-release-poc/issues/6)) ([92964fe](https://github.com/robence/semantic-release-poc/commit/92964fe1cc21781f5624433f70b7562b7c1c7b18))
-
-# [2.1.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2023-06-20)
-
-
-### Bug Fixes
-
-* **changelog:** install plugin ([35863fb](https://github.com/robence/semantic-release-poc/commit/35863fb8b48da9d1d5016f841e5cfe6a0484b5c5))
-
-
-### Features
-
-* **changelog:** add plugin ([d5886b3](https://github.com/robence/semantic-release-poc/commit/d5886b30e6e610fdb4caa6b42a625775b2918ffa))
+* FKNEXT-1 ([#19](https://github.com/robence/semantic-release-poc/issues/19)) ([8a83add](https://github.com/robence/semantic-release-poc/commit/8a83add36c916c77267bdf59fa75425ba1452ec4))
