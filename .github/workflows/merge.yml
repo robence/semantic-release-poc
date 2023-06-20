@@ -1,9 +1,6 @@
 name: Lint Commit Messages
 on: 
   merge_group:
-    branches:
-      - main
-      - customization/kk
 
 jobs:
   commitlint:
