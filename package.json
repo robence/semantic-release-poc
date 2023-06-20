@@ -55,6 +55,6 @@
         }
       ]
     ],
-    "tagFormat": "abc-${version}"
+    "tagFormat": "abcnext-${version}"
   }
 }
