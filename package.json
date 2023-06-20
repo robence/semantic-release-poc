@@ -22,6 +22,7 @@
     "semantic-release": "^21.0.5"
   },
   "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
@@ -30,12 +31,29 @@
       {
         "name": "customization/kk",
         "channel": "kk"
+      },
+      {
+        "name": "beta",
+        "prerelease": true
       }
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      "@semantic-release/git"
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "customization/docs/RELEASELOG.md"
+        }
+      ],
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "customization/docs/RELEASELOG.md"
+          ]
+        }
+      ]
     ],
     "tagFormat": "kk-${version}"
   }

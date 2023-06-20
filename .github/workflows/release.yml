@@ -4,6 +4,7 @@ name: Release
     branches:
       - main
       - customization/kk
+      - beta
 permissions:
   contents: read # for checkout
 jobs:
