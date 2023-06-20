@@ -9,7 +9,6 @@
 * FKNEXT-2 ([709c282](https://github.com/robence/semantic-release-poc/commit/709c282b90691268b7fbda9c07d5d864923ecf2a))
 * FKNEXT-3 ([e945b18](https://github.com/robence/semantic-release-poc/commit/e945b181c12fb67fbdab51b0dfcedee8186efdc1))
 
-
 ### Features
 
 * FKDEV-12 ([#15](https://github.com/robence/semantic-release-poc/issues/15)) ([0a75854](https://github.com/robence/semantic-release-poc/commit/0a75854d57ce28f5baab5276a284824d84060bc6))
@@ -44,6 +43,7 @@
 ### BREAKING CHANGES
 
 * bump
+=======
 
 # [3.2.0-beta.3](https://github.com/robence/semantic-release-poc/compare/v3.2.0-beta.2...v3.2.0-beta.3) (2023-06-20)
 
