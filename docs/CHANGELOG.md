@@ -1,3 +1,10 @@
+# [2.1.0-next.2](https://github.com/robence/semantic-release-poc/compare/v2.1.0-next.1...v2.1.0-next.2) (2023-06-20)
+
+
+### Features
+
+* **docs:** add package json to assets ([8c3c247](https://github.com/robence/semantic-release-poc/commit/8c3c247bc4a048368827bd96e31ec654aa6ad7a2))
+
 # [2.1.0-next.1](https://github.com/robence/semantic-release-poc/compare/v2.0.0...v2.1.0-next.1) (2023-06-20)
 
 
