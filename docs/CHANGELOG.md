@@ -1,3 +1,11 @@
+# [1.0.0-next.3](https://github.com/robence/semantic-release-poc/compare/v1.0.0-next.2...v1.0.0-next.3) (2023-08-30)
+
+
+### Features
+
+* a new feat ([8aebd35](https://github.com/robence/semantic-release-poc/commit/8aebd350c055a1b9e706ac2affd312b715ed80f6))
+* FKSEMCOM-1 ([a9eb1a3](https://github.com/robence/semantic-release-poc/commit/a9eb1a3732ba7fcf8160787afc54425571d0d558))
+
 # [1.0.0-next.2](https://github.com/robence/semantic-release-poc/compare/v1.0.0-next.1...v1.0.0-next.2) (2023-06-20)
 
 
