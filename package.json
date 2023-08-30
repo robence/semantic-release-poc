@@ -26,17 +26,11 @@
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
-    "tagFormat": "fk-${version}",
+    "tagFormat": "mm-${version}",
     "branches": [
-      "main",
-      "next",
       {
-        "name": "customization/kk",
-        "channel": "kk"
-      },
-      {
-        "name": "customization/abc",
-        "channel": "abc"
+        "name": "release/mm",
+        "channel": "mm"
       }
     ],
     "plugins": [
