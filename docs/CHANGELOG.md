@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/robence/semantic-release-poc/compare/fk-1.0.0...fk-1.1.0) (2023-08-30)
+
+
+### Features
+
+* **index:** add a new feat ([4b10772](https://github.com/robence/semantic-release-poc/commit/4b1077257db8db2dd88f4bda3240cb9e98b2d935))
+
 # 1.0.0 (2023-08-30)
 
 
