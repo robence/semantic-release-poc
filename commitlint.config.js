@@ -8,6 +8,6 @@ module.exports = {
       ["sentence-case", "start-case", "pascal-case", "upper-case"],
     ],
     'body-max-line-length': [2, 'always', 250],
-    'footer-max-line-length': [2, 'always', 250]
+    'footer-max-line-length': [2, 'always', 2500]
   },
 };
