@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/robence/semantic-release-poc/compare/fk-1.1.0...fk-1.1.1) (2023-08-30)
+
+
+### Bug Fixes
+
+* camera control FKITDEV-1 ([#28](https://github.com/robence/semantic-release-poc/issues/28)) ([42f0495](https://github.com/robence/semantic-release-poc/commit/42f0495e53bdcec69d5b76d2ff6e4b2a22b80e6f))
+
 # [1.1.0](https://github.com/robence/semantic-release-poc/compare/fk-1.0.0...fk-1.1.0) (2023-08-30)
 
 
