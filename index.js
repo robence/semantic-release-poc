@@ -4,5 +4,5 @@ console.log('change feat 6');
 console.log('new feature fix 8');
 console.log('change feat 5');
 console.log('BREAKING');
-console.log('a new feat')
+console.log('a recent fix')
 
