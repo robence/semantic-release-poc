@@ -26,12 +26,10 @@
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
+    "tagFormat": "fk-${version}",
     "branches": [
       "main",
-      {
-        "name": "next",
-        "prerelease": true
-      },
+      "next",
       {
         "name": "customization/kk",
         "channel": "kk"
