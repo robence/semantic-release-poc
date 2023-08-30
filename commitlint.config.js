@@ -7,5 +7,6 @@ module.exports = {
       "always", // example: feat: FKDEV-1 (#2)
       ["sentence-case", "start-case", "pascal-case", "upper-case"],
     ],
+    'body-max-line-length': [2, 'always', 250]
   },
 };
