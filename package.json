@@ -28,16 +28,7 @@
   "release": {
     "tagFormat": "fk-${version}",
     "branches": [
-      "main",
-      "next",
-      {
-        "name": "customization/kk",
-        "channel": "kk"
-      },
-      {
-        "name": "customization/abc",
-        "channel": "abc"
-      }
+      "next"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
