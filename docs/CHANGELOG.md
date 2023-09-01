@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/robence/semantic-release-poc/compare/fk-1.1.1...fk-1.1.2) (2023-09-01)
+
+
+### Bug Fixes
+
+* **semantic-release:** remove old configuration ([f887dd0](https://github.com/robence/semantic-release-poc/commit/f887dd0bfa155f4311f82563e397708cbb06baa2))
+
 ## [1.1.1](https://github.com/robence/semantic-release-poc/compare/fk-1.1.0...fk-1.1.1) (2023-08-30)
 
 
