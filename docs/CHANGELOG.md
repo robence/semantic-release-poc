@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/robence/semantic-release-poc/compare/core-1.0.0...core-1.0.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* **deps:** Migrate to yarn ([159f4e2](https://github.com/robence/semantic-release-poc/commit/159f4e226cf85d2b32390355aac06ebbd6324b88))
+
 # 1.0.0 (2023-09-05)
 
 
