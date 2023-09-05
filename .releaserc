@@ -1,7 +1,7 @@
 {
-    "tagFormat": "core-${version}",
+    "tagFormat": "np-${version}",
     "branches": [
-      "devel"
+      "release/new-partner"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -9,14 +9,14 @@
       [
         "@semantic-release/changelog",
         {
-          "changelogFile": "docs/CHANGELOG.md"
+          "changelogFile": "customization/CHANGELOG.md"
         }
       ],
       [
         "@semantic-release/git",
         {
           "assets": [
-            "docs/CHANGELOG.md"
+            "customization/CHANGELOG.md"
           ]
         }
       ]
