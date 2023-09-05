@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/robence/semantic-release-poc/compare/fk-1.1.2...fk-1.1.3) (2023-09-05)
+
+
+### Bug Fixes
+
+* **app:** Add semver, bump version on intention ([e86dfd7](https://github.com/robence/semantic-release-poc/commit/e86dfd73b7c091dd775c9e6ad1ee3a18a18444af))
+
 ## [1.1.2](https://github.com/robence/semantic-release-poc/compare/fk-1.1.1...fk-1.1.2) (2023-09-01)
 
 
