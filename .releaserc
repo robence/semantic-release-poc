@@ -1,7 +1,7 @@
 {
-    "tagFormat": "core-${version}",
+    "tagFormat": "alma-${version}",
     "branches": [
-      "devel"
+      "release/alma"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -9,7 +9,7 @@
       [
         "@semantic-release/changelog",
         {
-          "changelogFile": "docs/CHANGELOG.md"
+          "changelogFile": "customization/docs/CHANGELOG.md"
         }
       ],
       [
