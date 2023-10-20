@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/robence/semantic-release-poc/compare/core-1.1.0...core-1.1.1) (2023-10-20)
+
+
+### Bug Fixes
+
+* BREAKING CHANGE add a breaking line ([#31](https://github.com/robence/semantic-release-poc/issues/31)) ([44f8aac](https://github.com/robence/semantic-release-poc/commit/44f8aac320e81b6dc81125c61862dcab4ccf1f38))
+
 # [1.1.0](https://github.com/robence/semantic-release-poc/compare/core-1.0.1...core-1.1.0) (2023-10-20)
 
 
