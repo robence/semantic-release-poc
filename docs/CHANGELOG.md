@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/robence/semantic-release-poc/compare/core-1.0.1...core-1.1.0) (2023-10-20)
+
+
+### Features
+
+* **index:** FKITDEV-23: Add new feature ([#30](https://github.com/robence/semantic-release-poc/issues/30)) ([6940089](https://github.com/robence/semantic-release-poc/commit/6940089832cdd9f3d66e7eded1334760b05f1994))
+
 ## [1.0.1](https://github.com/robence/semantic-release-poc/compare/core-1.0.0...core-1.0.1) (2023-09-05)
 
 
